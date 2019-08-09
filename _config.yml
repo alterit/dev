@@ -1,1 +1,6 @@
 remote-theme: ndrewtl/airspace-jekyll
+
+title: Alterit
+baseurl: ""
+cover: "/assets/cover.png"
+logo: "/img/logo.png"
